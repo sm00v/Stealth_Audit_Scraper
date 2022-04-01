@@ -22,9 +22,9 @@ optional arguments:
    
     python3 stealth_scrape.py -u http://10.20.8.85 -p 127.0.0.1 -pp 1080 -o accounts.txt
 
-   Advanced usage of linkedin_email_scraper.py:
+   Advanced usage of stealth_scrape.py:
    
-    $ python3 linkedin_email_scraper.py scraper.py -u http://10.15.8.20
+    $ python3 stealth_scrape.py -u http://10.15.8.20
     [+] Attempting to visit http://10.15.8.20
     [+] Clearing all cookies...
     [+] Dropping down menu
